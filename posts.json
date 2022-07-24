@@ -83,7 +83,7 @@
       "id":9,
       "title": "Lupine brightens landscape",
       "desc": "Phasellus justo felis, porta viverra nisi non, posuere sagittis ante. Etiam dictum turpis sit amet magna tincidunt, sit amet porta lacus rhoncus. Cras sit amet luctus augue.",
-      "img": "./img/nine.jpg",
+      "img": "./images/nine.jpg",
       "date": "16 JAN",
       "author": "Bob",
       "like_count": 5,
